@@ -1,8 +1,16 @@
-# React + Vite
+### Clima Info 🌤️
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Este projeto é uma aplicação web desenvolvida para visualizar informações climáticas utilizando a API do OpenWeatherMap.
 
-Currently, two official plugins are available:
+#### Funcionalidades Principais
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Mostra o clima atual e previsões para diversas localidades ao redor do Brasil.
+- Utiliza gráficos para exibir dados meteorológicos.
+
+#### Tecnologias Utilizadas
+
+- React
+- Vite
+- Styled Components
+- Mui Joy
+- Axios
